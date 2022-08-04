@@ -178,7 +178,3 @@ Minimum number of moves = 4
 % java-algs4 Solver puzzle3x3-unsolvable.txt
 No solution possible
 ```
-
-Your program should work correctly for arbitrary n-by-n boards (for any 2 ≤ n < 128), even if it is too slow to solve some of them in a reasonable amount of time.
-
-**Deliverables.** Submit only the files Board.java and Solver.java (with the Manhattan priority). We will supply algs4.jar. You may not call any library functions other those in java.lang, java.util, and algs4.jar. You must use MinPQ for the priority queue(s).
